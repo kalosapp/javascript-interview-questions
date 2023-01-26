@@ -8,10 +8,10 @@
 | 04. |[What are the differences between let and var?](#q-what-are-the-differences-between-let-and-var)|
 | 05. |[List ES6 features.](#q-list-es6-features)|
 | 06. |[Explain Spread and Rest Operators](#q-explain-spread-and-rest-operators)|
-| 07. |[What is Destructuring?](#q-what-is-destructuring?)|
+| 07. |[What is Destructuring?](#q-what-is-destructuring)|
 | 08. |[Different between promise and async await?](#q-different-between-promise-and-async-await)|
-| 09. |[Explain "this" in JavaScript?](#q-explain-this-in-javascript?)|
-| 10. |[Explain `call`, `apply` and `bind` in JavaScript!](#q-explain-call-apply-and-bind-in-javascript!)|
+| 09. |[Explain "this" in JavaScript?](#q-explain-this-in-javascript)|
+| 10. |[Explain `call`, `apply` and `bind` in JavaScript!](#q-explain-call-apply-and-bind-in-javascript)|
 | 11. |[Type of error in JavaScript?](#q-type-of-error-in-javascript)|
 
 <br/>
